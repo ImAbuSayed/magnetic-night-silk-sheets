@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magnetic-night-silk-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Magnetic Night Silk Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-night-silk-sheets/) |
+| **Get License** | [Official Music Licensing for Magnetic Night Silk Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-night-silk-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3143)
 
 ---
 
