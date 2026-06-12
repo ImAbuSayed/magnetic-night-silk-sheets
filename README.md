@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magnetic-night-silk-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Magnetic Night Silk Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-night-silk-sheets/) |
+| **Get License** | [Official Music Licensing for Magnetic Night Silk Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-night-silk-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ooh, yeah
+> Lost in the glow of the firelight
+> Pulling you close in the quiet night
+> Nothing but time and this sweet desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
